@@ -1,6 +1,6 @@
 # USGS + Leaflet
 
-## Background
+## Please navigate to ___________.
 
 ![1-Logo](Images/1-Logo.png)
 
